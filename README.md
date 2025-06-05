@@ -39,12 +39,12 @@ The ego vehicle navigates a set of waypoints and comes to a full stop at traffic
 ## 📁 Project Structure
 
 Course4FinalProject/
-├── module_7.py # Main entry point
-├── controller2d.py # PID controller
-├── behavioral_planner.py # FSM for decision making
-├── local_planner.py # Path interpolation & control points
-├── live_plotter.py # Real-time plotting interface
-├── trajectory.txt # Logged trajectory for evaluation
+├── module_7.py             # Main entry point
+├── controller2d.py         # PID controller
+├── behavioral_planner.py   # FSM for decision making
+├── local_planner.py        # Path interpolation & control point generation
+├── live_plotter.py         # Real-time plotting interface
+└── trajectory.txt          # Logged trajectory for evaluation
 
 
 ## 🚦 Evaluation Criteria
