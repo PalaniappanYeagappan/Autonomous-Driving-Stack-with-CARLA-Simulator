@@ -38,7 +38,7 @@ The ego vehicle navigates a set of waypoints and comes to a full stop at traffic
 
 ## 📁 Project Structure
 
-<pre>  Course4FinalProject/ 
+<pre>  Project/ 
         ├── module_7.py # Main entry point 
         ├── controller2d.py # PID controller
         ├── behavioral_planner.py # FSM for decision making 
