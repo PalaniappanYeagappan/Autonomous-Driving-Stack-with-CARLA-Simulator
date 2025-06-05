@@ -1,5 +1,3 @@
-# Autonomous-Driving-Stack-with-CARLA-Simulator
-
 # 🛣️ Autonomous Vehicle Navigation in CARLA Simulator
 
 This project implements a comprehensive autonomous driving pipeline in the [CARLA Simulator](https://carla.org/) for waypoint tracking and stop sign compliance, utilising computer vision, LiDAR, and PID controllers. Designed for simulation-based validation of planning, perception, and control systems.
